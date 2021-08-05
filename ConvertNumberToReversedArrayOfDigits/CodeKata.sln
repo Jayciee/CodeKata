@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertNumberToReversedArrayOfDigits", "ConvertNumberToReversedArrayOfDigits\ConvertNumberToReversedArrayOfDigits.csproj", "{B902E868-879B-468C-9106-6A660F4B44A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeKatas", "ConvertNumberToReversedArrayOfDigits\CodeKatas.csproj", "{B902E868-879B-468C-9106-6A660F4B44A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeKataTests", "CodeKataTests\CodeKataTests.csproj", "{A94E9A5B-7254-43BA-8095-352780163EB8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CodeKataTests", "CodeKataTests\CodeKataTests.csproj", "{A94E9A5B-7254-43BA-8095-352780163EB8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
